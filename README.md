@@ -1,16 +1,23 @@
-## Hi there 👋
+Ilya, 22 years old, currently studying at PRUE.
 
-<!--
-**iGodShoT/igodshot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merrcurys&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Merrcurys&theme=github_dark" alt=""/>
+</div>
 
-Here are some ideas to get you started:
+### Key points
+*   Studying at [Deep Learning School](https://dls.samcs.ru/) for Deep Learning (2024 - present)
+*   College degree at promgramming [Moscow Instrument Engineering College](https://mpt.ru) (2018 - 2022)
+*   Studying at [Plekhanov Russian University of Economics](https://рэу.рф) (2023 - present)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Dealt with
+*   [Python](https://merrcurys.ru/img/diplomas/diplom_python.jpg) / Flask, Telegram Bots, Django, FastApi, ROS2
+*   Data Analytics / Data Science
+*   C# / WPF, ASP.NET, Unity 
+*   C++ / Arduino
+*   Java / Android
+*   T-SQL, PostgreSQL, MySQL, MSSQL
+
+<p align='center'>
+   📫 How to reach me via telegram: <a href='https://t.me/godshott'>@GodShoTT</a>
+</p>
