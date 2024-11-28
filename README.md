@@ -11,7 +11,7 @@ Ilya, 22 years old, currently studying at PRUE.
 *   Studying at [Plekhanov Russian University of Economics](https://рэу.рф) (2023 - present)
 
 ## 🛠 Dealt with
-*   [Python](https://merrcurys.ru/img/diplomas/diplom_python.jpg) / Flask, Telegram Bots, Django, FastApi, ROS2
+*   Python / Telegram Bots, Django, FastApi, ROS2
 *   Data Analytics / Data Science
 *   C# / WPF, ASP.NET, Unity 
 *   C++ / Arduino
