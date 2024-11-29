@@ -1,8 +1,8 @@
 Ilya, 22 years old, currently studying at PRUE.
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merrcurys&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Merrcurys&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iGodShoT&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iGodShoT&theme=github_dark" alt=""/>
 </div>
 
 ### Key points
