@@ -7,12 +7,12 @@ Ilya, 22 years old, currently studying at PRUE.
 
 ### Key points
 *   Studying at [Deep Learning School](https://dls.samcs.ru/) for Deep Learning (2024 - present)
-*   College degree at promgramming [Moscow Instrument Engineering College](https://mpt.ru) (2018 - 2022)
+*   College degree at programming [Moscow Instrument Engineering College](https://mpt.ru) (2018 - 2022)
 *   Studying at [Plekhanov Russian University of Economics](https://рэу.рф) (2023 - present)
 
 ## 🛠 Dealt with
 *   Python / Telegram Bots, Django, FastApi, ROS2
-*   Data Analytics / Data Science
+*   Data Analytics / Data Science / pandas, matplotlib, scikit-learn, numpy, PyTorch, Catboost
 *   C# / WPF, ASP.NET, Unity 
 *   C++ / Arduino
 *   Java / Android
